@@ -23,9 +23,11 @@ Together, we're going to fix (or at least modify) this error-laden monstrosity.
 1. Under the "Issues" tab, you'll find a variety of discussion points. Take a look at some of those Issues and weigh in with your opinion.
 2. Under the "Projects" tab, you'll find some of the issues prioritized into a project board called "Improve Website". Grab one of the tasks and assign it to yourself.
 3. Once you've assigned yourself a task, it is time to set about doing it! See if you can find the file where you need to make a change.
-  a. navigate to the file you want to modify
-  b. hit the "edit" icon and carefully update the line that needs to be changed
-  c. scroll to the bottom and type a commit message that explains what you've done. Something short, simple and in present tense, like "make the background red".
-  d. make sure you've selected "Create a new branch for this commit and start a pull request" and give the branch a meaningful name like `red-background`. Then hit the "propose changes" button. Make sure to leave a description for that change.
+  1. navigate to the file you want to modify
+  2. hit the "edit" icon and carefully update the line that needs to be changed
+  3. scroll to the bottom and type a commit message that explains what you've done. Something short, simple and in present tense, like "make the background red".
+  4. make sure you've selected "Create a new branch for this commit and start a pull request" and give the branch a meaningful name like `red-background`. Then hit the "propose changes" button. Make sure to leave a description for that change.
   
-And that's it. The instructor or a TA will either accept the change or comment on your pull request to suggest further edits.
+And that's it. The instructor or a TA will either accept the change or comment on your pull request to suggest further edits. 
+
+Done? Try another issue!
