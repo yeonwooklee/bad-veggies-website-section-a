@@ -31,7 +31,7 @@ Together, we're going to fix (or at least modify) this error-laden monstrosity.
     
 4. Now you're going to issue a pull request to propose that your changes be merged back into the main branch. 
     1. Go to the "Pull requests" tab and create a new pull request FROM your branch TO the main branch. 
-    2. Describe the changes you're proposing in the pull request. Be sure to reference any issues that are related to the change. You can do this by simply typing the issue number into the description (typing `closes #12` for example, will indicate that this pull request closes issue 12. remember, to reference the issues you must type the hash character `#12`) 
+    2. Describe the changes you're proposing in the pull request. Be sure to reference any issues that are related to the change. You can do this by simply typing the issue number into the description (typing `closes #12` for example, will indicate that this pull request closes issue 12 and will create a link between your pull request and that issue) 
   
 And that's it. The instructor or a TA will either accept the change or comment on your pull request to suggest further edits. 
 
