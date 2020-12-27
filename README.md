@@ -23,15 +23,17 @@ Together, we're going to fix (or at least modify) this error-laden monstrosity.
 1. Under the "Issues" tab, you'll find a variety of discussion points. Take a look at some of those Issues and weigh in with your opinion.
 2. Under the "Projects" tab, you'll find some of the issues prioritized into a project board called "Improve Website". Grab one of the tasks and assign it to yourself.
 3. Once you've assigned yourself a task, it is time to set about doing it! 
-    1. First, create a new branch. Give it a meaningful name like `red-background`. Makesure the dropdown box on the top left shows that you're in that branch. You should also see the branch name in the URL.
+    1. First, create a new branch. Give it a meaningful name like `red-background`. Makesure the dropdown box on the top left shows that you're in that branch. You should also see the branch name in the URL.    
     2. See if you can find the file where you need to make a change and navigate to that file.
-    2. Hit the "edit" icon and carefully update the line that needs to be changed.
-    3. Scroll to the bottom and type a commit message that explains what you've done. Something short, simple and in present tense, like "make the background red".
-    4. Go ahead and commit the change to that branch!
+    3. Hit the "edit" icon and carefully update the line that needs to be changed.
+    4. Scroll to the bottom and type a commit message that explains what you've done. Something short, simple and in present tense, like "make the background red".
+    5. Go ahead and commit the change to that branch!
     
 4. Now you're going to issue a pull request to propose that your changes be merged back into the main branch. 
     1. Go to the "Pull requests" tab and create a new pull request FROM your branch TO the main branch. 
-    2. Describe the changes you're proposing in the pull request. Be sure to reference any issues that are related to the change. You can do this by simply typing the issue number into the description (typing `closes #12` for example, will indicate that this pull request closes issue 12 and will create a link between your pull request and that issue) 
+    2. Describe the changes you're proposing in the pull request. Be sure to reference any issues that are related to the change. You can do this by simply typing the issue number into the description (typing `closes #12` for example, will indicate that this pull request closes issue 12 and will create a link between your pull request and that issue).
+    
+    ![](https://www.evernote.com/shard/s150/sh/0c37d4f3-0a35-4650-8a29-a21cd799190c/27371bb5d5d2c1cf/res/96a59066-7cc9-4b11-a1d4-d528649ae048)
   
 And that's it. The instructor or a TA will either accept the change or comment on your pull request to suggest further edits. 
 
